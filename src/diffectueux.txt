@@ -1,0 +1,4 @@
+1 Temperature 70.22 10.35 PANNE 1 1 2017 FarmTRX
+3 Temperature 137.25 42.22 PANNE 3 3 2018 MC_Sieve_Sensor
+5 Temperature 112.50 15.22 PANNE 3 7 2018 Precision_Planting
+7 Temperature 115.27 13.22 PANNE 2 2 2017 Precision_Planting

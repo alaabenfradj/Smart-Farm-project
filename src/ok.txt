@@ -1,0 +1,5 @@
+2 Temperature 120.21 15.33 OK 3 3 2017 FarmTRX
+4 Temperature 97.23 12.24 OK 5 4 2019 TRIMBLE
+6 Temperature 86.33 5.36 OK 2 3 2020 TOPCON
+8 Temperature 102.20 47.20 OK 3 3 2019 MC_Sieve_Sensor
+9 Temperature 100.30 12.89 OK 3 3 2019 TOPCON
